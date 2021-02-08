@@ -1,8 +1,9 @@
 .container{
-    height: 550px; 
-    width: 1000px; 
-    border-style: solid;
-    border-color: gray; 
+    height: 30px; 
+    width: 200px; 
+    background: gray;
     margin: 25px auto;
     border-radius: 5px;
+    float: left;
+    text-align: left;
 }
